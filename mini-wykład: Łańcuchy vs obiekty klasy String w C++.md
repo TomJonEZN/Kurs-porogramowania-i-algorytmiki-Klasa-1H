@@ -14,8 +14,8 @@ jako "typ złożony" i o obiektowości nie wspomnę wcale.
 
 Jak utworzyć napis? Podaję 5 sposobów:
 
-[!NOTE]
-//1
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 
 
