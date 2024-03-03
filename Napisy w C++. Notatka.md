@@ -162,20 +162,8 @@ int main()
     cout << napis1 << " " << napis2 << " " << napis3 << endl;
 }
 ```
-
-
-
 > [!CAUTION]
 >***Uwaga: W pliku "Napisy. Lista zadań.md" znajdziesz listę zadań w omawianym temacie. Dwa z nich są obowiązkowe.
 > Nie wolno Ci używać przy rozwiązywaniu wbudowanych metod np find() czy at() czy substr() lub innych!!!
 > Jedynie długość napisu możesz obsługiwać opowiedzianymi funkcjami length() lub size().
 > Jeśli będą Ci potrzebne jakieś dodatkowe metody, musisz je napisać sam/sama!!!***
-
-[Napisy w C++ Lista zadań](Napisy w C++. Lista zadań/).
- 
-
-
-Napisz rekurencyjną funkcję, która obliczy silnię podanej liczby naturalnej $n$.<br>
-Silnia to iloczyn wszystkich liczb naturalnych od $1$ do $n$. Oznaczana jest jako $n!$.
-
-**Przykład:** $5! = 5 * 4 * 3 * 2 * 1 = 120$
