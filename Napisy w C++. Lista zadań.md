@@ -37,7 +37,7 @@ Napisz funkcję bool ispalindrome("napis"), która sprawdza, czy napis jest pali
 **Przykład:** ispalindrome("ABBA") powinna zwrócić true (1).
 
 ### Zadanie 9 (nieco trudniejsze)
-Najdłuższy wspólny podciąg (ang. longest common subsequence) to najdłuższy podciąg znaków, które występują w tej samej kolejności w dwóch porównywanych łańcuchach znaków. Elementy podciągów nie muszą przy tym leżeć obok siebie (tym różni się ten problem od problemu najdłuższego wspólnego podłańcucha (ang. longest common substring). Napisz funkcję string lcs(string napis1, string napis2), która zwraca najdłuższy wspólny podłańcuch (string) czyli najdłuższy ciąg znaków, który występuje w obu napisach i znaki są w nim w tej samej kolejności<br>
+Najdłuższy wspólny podciąg (ang. longest common subsequence) to najdłuższy podciąg znaków, które występują w tej samej kolejności w dwóch porównywanych łańcuchach znaków. Elementy podciągów nie muszą przy tym leżeć obok siebie (tym różni się ten problem od problemu najdłuższego wspólnego podłańcucha (ang. longest common substring). Napisz funkcję string lcs(string napis1, string napis2), która zwraca najdłuższy wspólny podłańcuch (string) czyli najdłuższy ciąg znaków, który występuje w obu napisach i znaki są w nim w tej samej kolejności i obok siebie<br>
 **Przykład:** lcs("Ala ma kota", "A kot ma Alę") powinna zwrócić " kot".
 
 ### Zadanie 10 (średniej trudności, obowiązkowe, z lekcji)
