@@ -1,4 +1,4 @@
-## Napisy. Łańcuchy znaków i obiekty klasy String : krótka notatka
+## Napisy. Łańcuchy znaków i obiekty klasy String : krótka notatka z przykładami w języku C++
 
 ### Wstęp
 
