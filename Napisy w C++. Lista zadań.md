@@ -1,4 +1,4 @@
-## Napisy: zadania Lista1/2 
+## Napisy: zadania Lista 1 
 
 #### Uwaga: Należy pisać funkcje zgodnie ze specyfikacją zadania a następnie przetestować ich działanie
 
