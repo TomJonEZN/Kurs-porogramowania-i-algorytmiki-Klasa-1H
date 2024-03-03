@@ -34,7 +34,7 @@ int main() {
 ``` 
 
 > [!TIP]
-> ***2. Jak wprowadzać dane do napisu? W przypadku języka C++ można to zrobić na np. tak (są inne sposoby):***
+> ***2. Jak wprowadzać dane do napisu? W przypadku języka C++ można to zrobić na np. tak (są inne sposoby a w szczególności można rozszerzać metodę getline do trzeciego argumentu, którym jest znak, do którego czytamy, ale na razie ten aspekt jest nam niepotrzebny):***
 
 ```cpp
 #include <iostream>
@@ -164,6 +164,6 @@ int main()
 ```
 > [!CAUTION]
 >***Uwaga: W pliku "Napisy. Lista zadań.md" znajdziesz listę zadań w omawianym temacie. Dwa z nich są obowiązkowe.
-> Nie wolno Ci używać przy rozwiązywaniu wbudowanych metod np find() czy at() czy substr() lub innych!!!
+> Nie wolno Ci używać przy rozwiązywaniu wbudowanych metod np find() czy at() insert(), append(), replace(), substr() lub innych!!!
 > Jedynie długość napisu możesz obsługiwać opowiedzianymi funkcjami length() lub size().
 > Jeśli będą Ci potrzebne jakieś dodatkowe metody, musisz je napisać sam/sama!!!***
