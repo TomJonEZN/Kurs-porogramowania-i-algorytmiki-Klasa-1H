@@ -17,7 +17,7 @@ Napisz funkcję string append1(string napis1, string napis2), która zwraca konk
 
 ### Zadanie 4 (łatwe)
 Napisz funkcję int find1(string napis, char znak), która zwraca indeks pierwszego wystąpienia znaku w napisie.<br>
-**Przykład:** afind1("Ala ma kota", 'a') powinna zwrócić 5.
+**Przykład:** afind1("Ala ma kota", 'a') powinna zwrócić 2.
 
 ### Zadanie 5 (łatwe)
 Napisz funkcję int string replace1(string napis, char z1, char z2), która zamienia wszystkie wystąpienia z1 w napisie za pomocą z2
