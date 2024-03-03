@@ -1,6 +1,7 @@
 ## Napisy: zadania Lista 1 
 
-#### Uwaga: Należy pisać funkcje zgodnie ze specyfikacją zadania a następnie przetestować ich działanie
+#### Uwaga: Należy pisać funkcje zgodnie ze specyfikacją zadania a następnie przetestować ich działanie.
+#### Czas oddania to najbliższy czwartek, 7 marca, zadań nie należy wysyłać, tylko przynieść je ze sobą.
 
 ### Zadanie 1 (łatwe)
 Napisz funkcję char at1(string napis, int a), która zwraca znak (char) z napisu pod indeksem a.<br>
