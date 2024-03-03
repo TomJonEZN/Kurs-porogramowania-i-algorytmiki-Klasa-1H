@@ -136,9 +136,7 @@ int main()
 > [!CAUTION]
 > ***Uwaga, nie mutuj napisów, nawet jeśli masz wrażenie, że to działa poprawnie. Przy omawianiu wskaźników powiem, jak to robić dobrze.***
 > ***Poniższy kod obrazuje, w jaki sposób powinieneś tworzyć nowe napisy. Na liście pojawią się zadania, wktórych powinieneś napisać***
-> ***przydatne w tym celu funkcje. W kodzie padło dziwne słowo "literał". Nie musisz go jeszcze rozumieć, jesli chcesz, zajrzyj tutaj:***
-
-!sdfgs[Czym jest literał w C++](http://drzewniak.slupsk.pl/~ks/c/c_031.html/)
+> ***przydatne w tym celu funkcje. W kodzie padło dziwne słowo "literał". Jest to po prostu dana zapisana w kodzie, w bieżącym kontekście sa to napisy***
 
 ```cpp
 #include <iostream>
@@ -166,11 +164,15 @@ int main()
 ```
 
 
+
 > [!CAUTION]
 >***Uwaga: W pliku "Napisy. Lista zadań.md" znajdziesz listę zadań w omawianym temacie. Dwa z nich są obowiązkowe.
 > Nie wolno Ci używać przy rozwiązywaniu wbudowanych metod np find() czy at() czy substr() lub innych!!!
 > Jedynie długość napisu możesz obsługiwać opowiedzianymi funkcjami length() lub size().
 > Jeśli będą Ci potrzebne jakieś dodatkowe metody, musisz je napisać sam/sama!!!***
+
+[Napisy w C++ Lista zadań](Napisy w C++. Lista zadań/).
+ 
 
 
 Napisz rekurencyjną funkcję, która obliczy silnię podanej liczby naturalnej $n$.<br>
