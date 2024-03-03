@@ -1,4 +1,4 @@
-## Napisy a Klasa String : teoria (krótka notatka)
+## Napisy. Łańcuchy znaków i obiekty klasy String : krótka notatka
 
 ### Wstęp
 
