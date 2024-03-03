@@ -40,4 +40,4 @@ Najdłuższy wspólny podciąg (ang. longest common subsequence) to najdłuższy
 **Przykład:** lcs("Ala ma kota", "A kot ma Alę") powinna zwrócić " kot".
 
 ### Zadanie 10 (średniej trudności, obowiązkowe, z lekcji)
-<[img src="/path/to/img.jpg" alt="Alt text" title="Optional title">](https://www.szybkiplik.pl/5nqq5RPLx9)https://www.szybkiplik.pl/5nqq5RPLx9
+<[pesele](https://www.szybkiplik.pl/5nqq5RPLx9)
