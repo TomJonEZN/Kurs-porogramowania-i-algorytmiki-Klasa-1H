@@ -42,3 +42,13 @@ Najdłuższy wspólny podciąg (ang. longest common subsequence) to najdłuższy
 
 ### Zadanie 10 (średniej trudności, obowiązkowe, z lekcji)
 [pesele](https://www.szybkiplik.pl/5nqq5RPLx9)
+
+### Zadanie 11 (średniej trudności, przydatne ze względu na kartkówkę)
+
+Napisz w C++ program, który narysuje taką oto ramkę z gwiazdek dla dowolnego tekstu:
+przykładowy wynik dla tekstu "Ala ma kota\na kot ma Alę:
+
+********************
+* Ala ma kota      *
+* a kotma Alę      *
+********************
