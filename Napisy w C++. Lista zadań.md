@@ -45,10 +45,10 @@ Najdłuższy wspólny podciąg (ang. longest common subsequence) to najdłuższy
 
 ### Zadanie 11 (średniej trudności, przydatne ze względu na kartkówkę)
 
-Napisz w C++ program, który narysuje taką oto ramkę z gwiazdek dla dowolnego tekstu:
-przykładowy wynik dla tekstu "Ala ma kota\na kot ma Alę:
+Napisz w C++ program, który narysuje taką oto ramkę z gwiazdek dla dowolnego tekstu i dowolnego znaku budującego ramkę (zbuduj odpowiednią funkcję zwracającą tekst i biorącą jako argumenty tekst i znak; nie musisz wyśrodkowywać tekstu w ramce).<br>
+**Przykład:** dla tekstu "Ala ma kota\na kot ma Alę" oraz znaku 'o':
 
-********************
-* Ala ma kota      *
-* a kotma Alę      *
-********************
+oooooooooooooooooooo<br>
+o Ala ma kota&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o<br>
+o a kotma Alę&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o<br>
+oooooooooooooooooooo<br>
